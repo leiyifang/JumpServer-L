@@ -39,3 +39,8 @@ django.db.utils.InternalError: (1071, 'Specified key was too long; max key lengt
 create database ironfort CHARACTER SET utf8 COLLATE utf8_general_ci;
 
 5.运行方式为：python start_ironfort.py 
+
+6.运行效果如下：
+![image](http://github.com/leiyifang/JumpServer-L/raw/master/show_img/1.jpg)
+![image](http://github.com/leiyifang/JumpServer-L/raw/master/show_img/2.jpg)
+![image](http://github.com/leiyifang/JumpServer-L/raw/master/show_img/3.jpg)
